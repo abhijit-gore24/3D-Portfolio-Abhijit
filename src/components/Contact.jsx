@@ -156,7 +156,7 @@ const Contact = () => {
             type="submit"
             className="bg-primary hover:bg-primary text-white font-bold py-2 px-6 rounded mt-4 transition-colors duration-200"
           >
-            {loading ? "Sending..." : "Send"}
+            {loading ? "Sending..." : "Send  ❤️🚀🚀"}
           </button>
 
         </form>
